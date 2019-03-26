@@ -1,3 +1,6 @@
 [submodule "asteroids"]
 	path = asteroids
 	url = https://github.com/udacity/asteroids.git
+[submodule "pappu-pakia"]
+	path = pappu-pakia
+	url = https://github.com/udacity/pappu-pakia.git
