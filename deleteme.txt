@@ -1,2 +1,0 @@
-asteroids     reflections		 version-control
-deleteme.txt  troubleshooting_guide.pdf
